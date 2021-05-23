@@ -187,8 +187,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="796.0943"
-     inkscape:cy="685.71428"
+     inkscape:cx="1584.0088"
+     inkscape:cy="578.41199"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -201,7 +201,18 @@
      inkscape:window-height="1080"
      inkscape:window-x="1920"
      inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     showguides="false"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="197.24491,86.049995"
+       orientation="1,0"
+       id="guide880" />
+    <sodipodi:guide
+       position="383.79904,75.091944"
+       orientation="1,0"
+       id="guide882" />
+  </sodipodi:namedview>
   <metadata
      id="metadata2870">
     <rdf:RDF>
@@ -210,7 +221,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -300,12 +311,12 @@
       <text
          xml:space="preserve"
          id="text1048"
-         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0.0302091px;word-spacing:1.72623px;white-space:pre;shape-inside:url(#rect1052);fill:#5c4aa1;fill-opacity:1;stroke:none;"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0.06904939px;word-spacing:2.15779331px;white-space:pre;shape-inside:url(#rect1052);fill:#5c4aa1;fill-opacity:1;stroke:none;"
          transform="matrix(3.0654388,0,0,3.0654388,-4011.2164,-815.32221)"><tspan
            x="1937.6875"
            y="340.81942"><tspan
-             dx="0 0 -1.72623 1.7262304 0 0 -1.7262295 1.726229"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'Maven Pro';-inkscape-font-specification:'Maven Pro Medium';fill:#5c4aa1;fill-opacity:1">Is Not Email</tspan></tspan></text>
+             dx="0 0 -2.1577933 2.1577933 0 0 -2.1577933 2.1577942"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Maven Pro';-inkscape-font-specification:'Maven Pro';fill:#5c4aa1;fill-opacity:1">Is Not Email</tspan></tspan></text>
     </g>
   </g>
 </svg>
